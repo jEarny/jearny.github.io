@@ -1,1 +1,0 @@
-import{d as n,r as a,o as r,a as s,w as c,b as i,t as e}from"./main.8f6e628f.js";const u=n({props:{id:null},setup(t){return(l,p)=>{const o=a("Container");return r(),s(o,null,{default:c(()=>[i(e("ORG DETAILS")+" "+e(t.id),1)]),_:1})}}});export{u as default};
